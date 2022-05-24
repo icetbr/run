@@ -1,9 +1,9 @@
 # Run - The Simplest Build Tool on Earth
 > forked from [do][1]
 
+
 ## Anti-features
 - No installation
-- No libraries
 - No dependencies
 - No overhead (npm scripts have a [nagging delay][4] of a few miliseconds)
 

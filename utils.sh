@@ -41,4 +41,3 @@ header2 () {
     echo ""
     purple "$1"
 }
-

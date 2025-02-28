@@ -32,5 +32,4 @@ all() {
    green "\ndone $(asMMSS $SECONDS)\n"
 }
 
-
 "$@" # <- execute the task

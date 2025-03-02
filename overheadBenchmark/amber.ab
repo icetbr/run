@@ -1,0 +1,6 @@
+let age = 30
+if age < 18 {
+    echo "I'm not an adult yet"
+  } else {
+    echo "I'm an adult"
+  }
